@@ -1,0 +1,15 @@
+C:\Users\biruk\Documents\Csharp\traversry practice\bin\Debug\net6.0\traversry practice.exe
+C:\Users\biruk\Documents\Csharp\traversry practice\bin\Debug\net6.0\traversry practice.deps.json
+C:\Users\biruk\Documents\Csharp\traversry practice\bin\Debug\net6.0\traversry practice.runtimeconfig.json
+C:\Users\biruk\Documents\Csharp\traversry practice\bin\Debug\net6.0\traversry practice.dll
+C:\Users\biruk\Documents\Csharp\traversry practice\bin\Debug\net6.0\traversry practice.pdb
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\traversry practice.csproj.AssemblyReference.cache
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\traversry practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\traversry practice.AssemblyInfoInputs.cache
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\traversry practice.AssemblyInfo.cs
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\traversry practice.csproj.CoreCompileInputs.cache
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\traversry practice.dll
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\refint\traversry practice.dll
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\traversry practice.pdb
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\traversry practice.genruntimeconfig.cache
+C:\Users\biruk\Documents\Csharp\traversry practice\obj\Debug\net6.0\ref\traversry practice.dll
